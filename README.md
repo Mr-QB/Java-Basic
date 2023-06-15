@@ -2,8 +2,6 @@
 
 This repository contains the code and resources for the course "Learning Java" on LinkedIn Learning. The course covers the fundamentals of Java programming and is designed for beginners who want to learn Java from scratch.
 
-![Learning Java](Course_banner.jpeg)
-
 ## Certificate
 
 ![Certificate](Certificate.png)

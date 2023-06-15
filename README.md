@@ -2,13 +2,22 @@
 
 This repository contains the code and resources for the course "Learning Java" on LinkedIn Learning. The course covers the fundamentals of Java programming and is designed for beginners who want to learn Java from scratch.
 
-![Learning Java](course_banner.jpg)
+![Learning Java](Course_banner.jpeg)
+
+## Certificate
+
+![Certificate](Certificate.png)
+
+- Date of Completion: March 10, 2022
+- Issuing Organization: [Linkedin](https://www.linkedin.com/)
+- Platform: [LinkedIn Learning](https://www.linkedin.com/learning/learning-java-4)
+
 
 ## Course Description
 
 - Course: [Learning Java](https://www.linkedin.com/learning/learning-java-4)
 - Instructor: [John Smith](https://www.linkedin.com/in/johnsmith)
-- Duration: XX hours YY minutes
+- Duration: 02 hours 39 minutes
 
 ## Contents
 
